@@ -15,4 +15,4 @@ Pregunta 3 — Selección múltiple
 ¿Cuál de las siguientes opciones define mejor un algoritmo?
 
 Respuesta correcta:
-B. Una lista de pasos ordenados para resolver un problema
+B. Una lista de pasos ordenados para resolver un problema.
